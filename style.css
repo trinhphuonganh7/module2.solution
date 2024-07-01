@@ -1,1 +1,18 @@
-
+*{
+  box-sizing: border-box;
+}
+h1{
+  margin-bottom: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: static;
+  color: #2a2c33;
+}
+body{
+  background-color: #ffffff;
+}
+.row{
+  width: 90%;
+}
