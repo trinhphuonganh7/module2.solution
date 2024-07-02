@@ -9,8 +9,7 @@ body{
 }
 
 .row{
-  margin-top: 5%;
-  margin-bottom: 5%;
+  width: 100%
 }
 
 h1 {
@@ -42,7 +41,7 @@ h1 {
 .content{
   border: 5px solid black;
   width: 90%;
-  height: 250px;
+  height: 260px;
   margin: 2.5%;
   color: black;
   font-size: 25px;
