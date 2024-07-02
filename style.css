@@ -14,14 +14,14 @@ body{
 
 h1 {
   margin-bottom: 15px;
-  font-size: 50px;
+  font-size: 175%;
   text-align: center;
   color: black;
 }
 
 
 .section{
-overflow: hidden;
+overflow: auto;
 width: 100%;
 }
 
@@ -42,7 +42,7 @@ width: 100%;
 .content{
   border: 5px solid black;
   width: 90%;
-  height: auto;
+  height: 250px;
   margin: 2.5%;
   color: black;
   font-size: 25px;
